@@ -1,7 +1,5 @@
 # My Dev Blog
 
-This repo is very similar to my live production blog found here: [My Blog](https://josean.com)
-
 ## Running this locally
 
 Clone the repo first and navigate to the dev-blog directory.
