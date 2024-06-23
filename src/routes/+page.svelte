@@ -13,7 +13,7 @@
     name="description"
     content="I love Physics"
   />
-  <meta property="og:title" content="Josean Martinez" />
+  <meta property="og:title" content="Sunu Wahyudhi" />
   <meta property="og:type" content="website" />
   <meta
     property="og:image"
