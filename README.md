@@ -1,4 +1,4 @@
-# My Dev Blog
+# Sunu Dev Blog
 
 ## Running this locally
 
