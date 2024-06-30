@@ -8,7 +8,7 @@
   </div>
 
   <div class="space-y-2 py-4">
-    <h2 class="text-4xl font-bold">Hai! Nama Saya Sunu.</h2>
+    <h2 class="text-4xl font-bold">Hi!,  my name is Sunu.</h2>
     <p class="text-2xl font-light">
       I want to sharing what I know.
     </p>
