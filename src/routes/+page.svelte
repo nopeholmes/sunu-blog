@@ -8,16 +8,15 @@
 </script>
 
 <svelte:head>
-  <title>Sunu Wahyudhi</title>
+  <title>Sunu Wahyudhi Blog</title>
   <meta
     name="description"
     content="I love Physics"
   />
-  <meta property="og:title" content="Sunu Wahyudhi" />
+  <meta property="og:title" content="Sunu Wahyudhi Blog" />
   <meta property="og:type" content="website" />
   <meta
     property="og:image"
-    content="https://res.cloudinary.com/martinez-cloud/image/upload/v1691247140/josean-youtube-blog/vim-beginners-tutorial_u32v9a.jpg"
   />
   <meta property="og:url" content={$page.url.href} />
   <meta
