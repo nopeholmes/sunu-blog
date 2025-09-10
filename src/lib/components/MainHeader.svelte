@@ -16,7 +16,7 @@
     items-center justify-between px-4"
   >
     <a href="/"> <Logo class="h-2: w-20" /> </a>
-    <p class="text-2xl font-bold">Sunu's Blog</p>
+    <a href="/" class="text-2xl font-bold">Sunu's Blog</a>
 
     <div class="flex items-center space-x-1">
       <DarkmodeButton />
