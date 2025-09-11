@@ -20,6 +20,9 @@ importers:
       escape-html:
         specifier: ^1.0.3
         version: 1.0.3
+      node:
+        specifier: ^22.0.0
+        version: 22.19.0
       postgres:
         specifier: ^3.4.7
         version: 3.4.7
@@ -1585,8 +1588,16 @@ packages:
   no-case@3.0.4:
     resolution: {integrity: sha512-fgAN3jGAh+RoxUGZHTSOLJIqUc2wmoBwGR4tbpNAKmmovFoWq0OdRkb0VkldReO2a2iBT/OEulG9XSUc10r3zg==}
 
+  node-bin-setup@1.1.4:
+    resolution: {integrity: sha512-vWNHOne0ZUavArqPP5LJta50+S8R261Fr5SvGul37HbEDcowvLjwdvd0ZeSr0r2lTSrPxl6okq9QUw8BFGiAxA==}
+
   node-releases@2.0.20:
     resolution: {integrity: sha512-7gK6zSXEH6neM212JgfYFXe+GmZQM+fia5SsusuBIUgnPheLFBmIPhtFoAQRj8/7wASYQnbDlHPVwY0BefoFgA==}
+
+  node@22.19.0:
+    resolution: {integrity: sha512-Cgt3vsL2HqwXRnA3bGZpatYnKGO1UmE4z0jpxlTfqghEmRe9p0sIF2yvgWUE8Zg7C3o2SZsKQ1m0eaZ5n4SyKA==}
+    engines: {npm: '>=5.0.0'}
+    hasBin: true
 
   normalize-path@3.0.0:
     resolution: {integrity: sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==}
@@ -3581,7 +3592,13 @@ snapshots:
       lower-case: 2.0.2
       tslib: 2.8.1
 
+  node-bin-setup@1.1.4: {}
+
   node-releases@2.0.20: {}
+
+  node@22.19.0:
+    dependencies:
+      node-bin-setup: 1.1.4
 
   normalize-path@3.0.0: {}
 

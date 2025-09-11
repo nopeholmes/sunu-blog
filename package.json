@@ -50,6 +50,7 @@
     "dotenv": "^16.6.1",
     "drizzle-orm": "^0.30.10",
     "escape-html": "^1.0.3",
+    "node": "^22.0.0",
     "postgres": "^3.4.7",
     "prismjs": "^1.30.0",
     "shiki": "^0.14.7",
