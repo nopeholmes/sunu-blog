@@ -17,7 +17,7 @@
   >
     <a href="/"> <Logo class="h-2: w-20" /> </a>
     <a href="/" class="text-2xl font-bold">Sunu's Blog</a>
-
+    
     <div class="flex items-center space-x-1">
       <DarkmodeButton />
 

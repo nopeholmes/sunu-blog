@@ -5,12 +5,13 @@
   import PostHeader from "$lib/components/PostHeader.svelte";
   import "prismjs/plugins/line-numbers/prism-line-numbers.js";
   import { page } from "$app/stores";
-  import Giscus from "@giscus/svelte";
+  
 
   export let data: PageData;
 
   const { metadata, post: Post } = data;
 </script>
+
 
 <svelte:head>
   <title>{metadata.title}</title>
@@ -34,20 +35,3 @@
   </div>
 </article>
 
-<div class="px-4 py-4">
-  <Giscus
-    id="comments"
-    repo="josean-dev/sveltekit-blog"
-    repoId="R_kgDOKBNW8w"
-    category="General"
-    categoryId="DIC_kwDOKBNW884CZ5C-"
-    mapping="specific"
-    term={$page.url.pathname}
-    reactionsEnabled="1"
-    emitMetadata="0"
-    inputPosition="bottom"
-    theme="dark_tritanopia"
-    lang="en"
-    loading="lazy"
-  />
-</div>
