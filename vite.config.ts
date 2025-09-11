@@ -5,5 +5,9 @@ export default defineConfig({
   plugins: [sveltekit()],
   server: {
     port: 3000
+  },
+  preview: {
+    port: 3000,
+    allowedHosts: ['sn-sn.my.id']  // 👈 your custom domain
   }
 });
