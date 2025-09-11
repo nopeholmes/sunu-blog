@@ -7,9 +7,14 @@ summary: "Kumpulan Perangkat Pembelajaran Matakuliah Fluida dan Larutan Smt. Gas
 
 
 ## 1. Pertemuan Ke-1
+<iframe 
+  src="https://drive.google.com/file/d/1t8VNn0QWI7DFnAaVLC5m5VkZg0YRQUw4/preview" 
+  width="100%" 
+  height="600" 
+  allow="autoplay">
+</iframe>
 
-Link Materi
-(https://drive.google.com/file/d/1t8VNn0QWI7DFnAaVLC5m5VkZg0YRQUw4/view)
+[Link Materi](https://drive.google.com/file/d/1t8VNn0QWI7DFnAaVLC5m5VkZg0YRQUw4/view?usp=sharing)
 
 atau copy link di bawah
 ```bash
