@@ -1,5 +1,5 @@
 {
-  "name": "sunu-blog",
+  "name": "dev-blog",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -18,6 +18,7 @@
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
     "@sveltejs/adapter-auto": "^2.1.1",
+    "@sveltejs/adapter-node": "^5.3.2",
     "@sveltejs/kit": "^1.30.4",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/typography": "^0.5.16",
@@ -50,7 +51,6 @@
     "dotenv": "^16.6.1",
     "drizzle-orm": "^0.30.10",
     "escape-html": "^1.0.3",
-    "node": "^22.0.0",
     "postgres": "^3.4.7",
     "prismjs": "^1.30.0",
     "shiki": "^0.14.7",

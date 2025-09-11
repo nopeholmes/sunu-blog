@@ -1,6 +1,3 @@
-ignoredBuiltDependencies:
-  - node
-
 onlyBuiltDependencies:
   - '@sveltejs/kit'
   - es5-ext
