@@ -13,6 +13,7 @@ summary: "Kumpulan Perangkat Pembelajaran Matakuliah Fluida dan Larutan Smt. Gas
   height="600" 
   allow="autoplay">
 </iframe>
+
 [Link Materi](https://drive.google.com/file/d/1t8VNn0QWI7DFnAaVLC5m5VkZg0YRQUw4/view?usp=sharing)
 
 ## 2. Pertemuan Ke-2
@@ -23,6 +24,9 @@ summary: "Kumpulan Perangkat Pembelajaran Matakuliah Fluida dan Larutan Smt. Gas
   allow="autoplay">
 </iframe>
 
+[Link Materi](https://drive.google.com/file/d/1fcUDVdAO-gYiPnUbGdvTuU84-hoJ61PR/view?usp=sharing)
+
+
 ## 3. Pertemuan Ke-3
 <iframe title="Materi 3" 
   src="https://drive.google.com/file/d/1d51yLI6QsJZKoS6C0qiElLwxomICKtuY/preview" 
@@ -30,5 +34,7 @@ summary: "Kumpulan Perangkat Pembelajaran Matakuliah Fluida dan Larutan Smt. Gas
   height="600" 
   allow="autoplay">
 </iframe>
+
 [Link Materi](https://drive.google.com/file/d/1d51yLI6QsJZKoS6C0qiElLwxomICKtuY/view?usp=sharing)
+
 [Link Pengumpulan Tugas](https://docs.google.com/forms/d/e/1FAIpQLSfUCpgNOEOBTkB4KdtaqW3UKQdp5nnRI9pNBNT4q9Y7fmscKQ/viewform)
