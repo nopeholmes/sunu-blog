@@ -20,3 +20,18 @@ atau copy link di bawah
 ```bash
 https://drive.google.com/file/d/1t8VNn0QWI7DFnAaVLC5m5VkZg0YRQUw4/view
 ```
+
+## 2. Pertemuan Ke-2
+<iframe title="Materi 2" 
+  src="https://drive.google.com/file/d/1fcUDVdAO-gYiPnUbGdvTuU84-hoJ61PR/preview" 
+  width="100%" 
+  height="600" 
+  allow="autoplay">
+</iframe>
+
+[Link Materi](https://drive.google.com/file/d/1fcUDVdAO-gYiPnUbGdvTuU84-hoJ61PR/view?usp=sharing)
+
+atau copy link di bawah
+```bash
+https://drive.google.com/file/d/1fcUDVdAO-gYiPnUbGdvTuU84-hoJ61PR/view
+```
