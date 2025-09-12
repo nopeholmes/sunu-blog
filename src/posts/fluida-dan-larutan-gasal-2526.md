@@ -13,13 +13,7 @@ summary: "Kumpulan Perangkat Pembelajaran Matakuliah Fluida dan Larutan Smt. Gas
   height="600" 
   allow="autoplay">
 </iframe>
-
 [Link Materi](https://drive.google.com/file/d/1t8VNn0QWI7DFnAaVLC5m5VkZg0YRQUw4/view?usp=sharing)
-
-atau copy link di bawah
-```bash
-https://drive.google.com/file/d/1t8VNn0QWI7DFnAaVLC5m5VkZg0YRQUw4/view
-```
 
 ## 2. Pertemuan Ke-2
 <iframe title="Materi 2" 
@@ -29,9 +23,12 @@ https://drive.google.com/file/d/1t8VNn0QWI7DFnAaVLC5m5VkZg0YRQUw4/view
   allow="autoplay">
 </iframe>
 
-[Link Materi](https://drive.google.com/file/d/1fcUDVdAO-gYiPnUbGdvTuU84-hoJ61PR/view?usp=sharing)
-
-atau copy link di bawah
-```bash
-https://drive.google.com/file/d/1fcUDVdAO-gYiPnUbGdvTuU84-hoJ61PR/view
-```
+## 3. Pertemuan Ke-3
+<iframe title="Materi 3" 
+  src="https://drive.google.com/file/d/1d51yLI6QsJZKoS6C0qiElLwxomICKtuY/preview" 
+  width="100%" 
+  height="600" 
+  allow="autoplay">
+</iframe>
+[Link Materi](https://drive.google.com/file/d/1d51yLI6QsJZKoS6C0qiElLwxomICKtuY/view?usp=sharing)
+[Link Pengumpulan Tugas](https://docs.google.com/forms/d/e/1FAIpQLSfUCpgNOEOBTkB4KdtaqW3UKQdp5nnRI9pNBNT4q9Y7fmscKQ/viewform)
