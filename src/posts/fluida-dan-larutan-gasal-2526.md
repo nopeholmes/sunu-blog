@@ -50,3 +50,15 @@ summary: "Kumpulan Perangkat Pembelajaran Matakuliah Fluida dan Larutan Smt. Gas
 [Link Materi](https://drive.google.com/file/d/1HLH0bW4MQsaGsIYW2OaiEoKFQxaF2UQc/view?usp=sharing)
 
 [Link Pengumpulan Tugas](https://docs.google.com/forms/d/e/1FAIpQLSfUCpgNOEOBTkB4KdtaqW3UKQdp5nnRI9pNBNT4q9Y7fmscKQ/viewform)
+
+## 4. Pertemuan Ke-5
+<iframe title="Materi 5" 
+  src="https://drive.google.com/file/d/1nF2V1x8BuMFukJw_wtC11UFDXl-0trED/preview" 
+  width="100%" 
+  height="600" 
+  allow="autoplay">
+</iframe>
+
+[Link Materi](https://drive.google.com/file/d/1nF2V1x8BuMFukJw_wtC11UFDXl-0trED/view?usp=sharing)
+
+[Link Pengumpulan Tugas](https://docs.google.com/forms/d/e/1FAIpQLSfUCpgNOEOBTkB4KdtaqW3UKQdp5nnRI9pNBNT4q9Y7fmscKQ/viewform)
