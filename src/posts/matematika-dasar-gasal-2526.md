@@ -56,3 +56,13 @@ summary: "Kumpulan Perangkat Pembelajaran Matakuliah Matematika Dasar Smt. Gasal
 [Link Kerja Mahasiswa](https://drive.google.com/file/d/1TfeIfQPRo81Qv34La9SjmBWBVyEX8tBs/view?usp=sharing)
 
 [Link Pengumpulan Tugas](https://forms.gle/sg31HFrP2M3TvtWW7)
+
+## 5. Pertemuan Ke-5
+<iframe title="Materi 5" 
+  src="https://drive.google.com/file/d/154MfEtdseFbzKrBWTF9VPFaC_uIDeSw-/preview" 
+  width="100%" 
+  height="600" 
+  allow="autoplay">
+</iframe>
+
+[Link Materi](https://drive.google.com/file/d/154MfEtdseFbzKrBWTF9VPFaC_uIDeSw-/view?usp=sharing)
