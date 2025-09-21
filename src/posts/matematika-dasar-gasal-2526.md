@@ -66,3 +66,15 @@ summary: "Kumpulan Perangkat Pembelajaran Matakuliah Matematika Dasar Smt. Gasal
 </iframe>
 
 [Link Materi](https://drive.google.com/file/d/154MfEtdseFbzKrBWTF9VPFaC_uIDeSw-/view?usp=sharing)
+
+## 6. Pertemuan Ke-6
+<iframe title="Materi 6" 
+  src="https://drive.google.com/file/d/1yGxwU4S0wyBkjnUJ2sAnzvwdjgdB1FlW/preview" 
+  width="100%" 
+  height="600" 
+  allow="autoplay">
+</iframe>
+
+[Link Materi](https://drive.google.com/file/d/1yGxwU4S0wyBkjnUJ2sAnzvwdjgdB1FlW/view?usp=sharing)
+
+[Link Pengumpulan Tugas](https://forms.gle/sg31HFrP2M3TvtWW7)
