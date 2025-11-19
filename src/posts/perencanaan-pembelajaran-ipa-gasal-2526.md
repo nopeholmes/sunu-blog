@@ -1,8 +1,8 @@
 ---
 title: "Perencanaan Pembelajaran IPA Gasal 25/26"
 imgUrl: "/post-images/perencanaan-pembelajaran-ipa/cover.png"
-publishedAt: "2025-09-10"
-summary: "Kumpulan Perangkat Pembelajaran Matakuliah Fluida dan Larutan Smt. Gasal 25/26, PIPA UTM"
+publishedAt: "2025-11-19"
+summary: "Kumpulan Perangkat Pembelajaran Matakuliah Perencanaan Pembelajaran IPA Smt. Gasal 25/26, PIPA UTM"
 ---
 
 ## 1. Pertemuan Ke-13
